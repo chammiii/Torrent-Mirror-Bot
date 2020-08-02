@@ -8,7 +8,7 @@
     "googledrive"
   ],
   "repository": "https://github.com/chammiii/Torrent-Mirror-Bot",
-  "success_url": "https://github.com/chammiii/Torrent-Mirror-Bot",
+  "success_url": "https://t.me/torrentleechgdrivesupport",
   "website": "https://github.com/chammiii/Torrent-Mirror-Bot",  
   "env": {
     "BOT_TOKEN": {
